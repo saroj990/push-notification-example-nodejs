@@ -9,6 +9,7 @@
     "web-push": "^3.3.3"
   },
   "scripts": {
-    "start": "node index.js" 
+    "start": "node index.js",
+    "build": "node index.js"
   }
 }
